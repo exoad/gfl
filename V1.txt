@@ -1,27 +1,3 @@
-# GFL - Good Faith License
-
-A simple license focused on my projects that I have written with significant help with AI assistance. It is intended to bridge the gap between traditional copyright and the reality of modern, human-machine development.
-
-## My philosophy
-
-Current AI models were trained on the global commons of FOSS (Free Open Source Software) code hosted on platforms like GitHub. When that code was originally shared, the authors generally did so to benefit other humans, unaware that their work would eventually be used to train proprietary generative systems.
-
-Using this license returns this project back to the ecosystem. I would say a *gesture of reciprocity* towards the contributors who unknowningly provided the foundation for AI-assisted development which has revolutionized how software is made.
-
-## Using this license
-
-> I do not recommend you use this license as I have custom tailored it to my needs and conscience.
-> 
-> The license is dedicated to the public domain under the Creative Commons CC0 License.
-
-1. Copy the LICENSE text [below](#license-full-text) into a file named `LICENSE` to your project
-2. Replace `[YEAR]` and `[YOUR NAME]` with your information
-
-## License Full Text
-
-You can also find it here: [latest.txt](./latest.txt)
-
-```
 GOOD FAITH LICENSE (GFL) V1.0
 
 Copyright (c) [YEAR] [YOUR NAME OR HANDLE] for all human-authored portions.
@@ -102,8 +78,3 @@ The text of this license itself is dedicated to the public domain under the
 Creative Commons CC0 1.0 Universal dedication. Everyone is permitted to copy 
 and distribute verbatim copies of this license document, but changing it is 
 not allowed unless you rename the license.
-```
-
-## Versions
-
-- Version 1 (April 4, 2026) [V1.txt](./V1.txt)
